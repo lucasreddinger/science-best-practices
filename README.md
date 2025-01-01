@@ -37,6 +37,20 @@ All of the respoitories below issue DOIs.
 
 ## Pre-print platforms
 
+
+### References
+
+https://www.gsb.stanford.edu/faculty-research/behavioral-lab/conduct-research/pre-registration-information
+
+https://openeconomics.zbw.eu/en/knowledgebase/how-preregistrations-work/
+
+https://www.cos.io/initiatives/prereg
+
+https://osf.io/yrvcg
+
+https://help.osf.io/article/152-withdraw-a-registration
+
+
 **arXiv** is the (i.e., my) preferred repository for the fields it services (including economics). It is operated by Cornell University.
 
 **SocArXiv** serves social sciences, humanities, education, and law. It is operated by the Center for Open Science and is integrated with OSF. It's a bit easier to use than arXiv, as it allows PDF uploads (as opposed to LaTeX packages).
